@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## By Abhishek Das, Vraj Desai, Cameron Khan
 
 You can use the [editor on GitHub](https://github.com/abhxi/Reconstruction-Amendments/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
